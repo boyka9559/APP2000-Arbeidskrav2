@@ -1,0 +1,1 @@
+document.getElementById("melding").textContent = "JavaScript fungerer så klart"; 
